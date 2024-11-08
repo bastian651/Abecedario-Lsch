@@ -1,4 +1,4 @@
-Reconocimiento del abecedario de la Lengua de señas chilena (Lsch) a través de mediapipe.
+Reconocimiento del abecedario de la Lengua de señas chilena (Lsch) a utilizando la librería "mediapipe".
 
 Se utilizó el siguiente video como referencia:
 
